@@ -123,3 +123,10 @@ rm subpr*.trimmed mate*.int_trimmed
 <img width="329" alt="Снимок экрана 2022-10-04 в 21 01 00" src="https://user-images.githubusercontent.com/99287058/193892408-97073383-7bd5-461e-9043-b84201671116.png">
 
 # Возьмем меньшее количество чтений:
+
+## Контиги
+<img width="309" alt="Снимок экрана 2022-10-04 в 21 45 28" src="https://user-images.githubusercontent.com/99287058/193900774-b4e6bf70-caee-40f0-b6f2-19e7112ca8e2.png">
+
+## Скаффолды
+<img width="378" alt="Снимок экрана 2022-10-04 в 21 51 10" src="https://user-images.githubusercontent.com/99287058/193901872-a92451e1-fc6a-4ef8-ad41-517dee3ae57b.png">
+
