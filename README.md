@@ -51,7 +51,7 @@ subpr2.fastq
 
 mkdir fastqc_trimmed
 
-ls pe* mate*| xargs -tI{} fastqc -o fastqc_trimmed {}
+ls subpr* mate*| xargs -tI{} fastqc -o fastqc_trimmed {}
 
 ### 8. Создание отчета для обрезанных чтений через MultiQC
 
