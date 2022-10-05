@@ -117,16 +117,33 @@ rm subpr*.trimmed mate*.int_trimmed
 
 ## Контиги
 
-<img width="344" alt="Снимок экрана 2022-10-04 в 21 00 25" src="https://user-images.githubusercontent.com/99287058/193892317-fdeb393b-f011-491c-b8a7-c06915577cfa.png">
+<img width="244" alt="Снимок экрана 2022-10-05 в 15 06 10" src="https://user-images.githubusercontent.com/99287058/194056525-0c8c900f-6eab-49b2-9186-9cb9b098ee3a.png">
 
 ## Скаффолды
-<img width="329" alt="Снимок экрана 2022-10-04 в 21 01 00" src="https://user-images.githubusercontent.com/99287058/193892408-97073383-7bd5-461e-9043-b84201671116.png">
+
+<img width="278" alt="Снимок экрана 2022-10-05 в 15 06 49" src="https://user-images.githubusercontent.com/99287058/194056622-9a7d3075-372f-4e17-b240-bd3b1015a72c.png">
+
+## Скаффолды после gapClose
+
+<img width="256" alt="Снимок экрана 2022-10-05 в 15 07 33" src="https://user-images.githubusercontent.com/99287058/194056735-4357f629-1a54-4caf-a763-6aa20bb5a637.png">
 
 # Возьмем меньшее количество чтений:
+### Для pair-end 2.500.000 ридов, а для mate-pairs 750.000
 
 ## Контиги
-<img width="309" alt="Снимок экрана 2022-10-04 в 21 45 28" src="https://user-images.githubusercontent.com/99287058/193900774-b4e6bf70-caee-40f0-b6f2-19e7112ca8e2.png">
+<img width="268" alt="Снимок экрана 2022-10-05 в 15 08 55" src="https://user-images.githubusercontent.com/99287058/194056937-5be49443-ecae-4e63-aa16-6fe8b6de18be.png">
 
 ## Скаффолды
-<img width="378" alt="Снимок экрана 2022-10-04 в 21 51 10" src="https://user-images.githubusercontent.com/99287058/193901872-a92451e1-fc6a-4ef8-ad41-517dee3ae57b.png">
 
+<img width="258" alt="Снимок экрана 2022-10-05 в 15 09 12" src="https://user-images.githubusercontent.com/99287058/194056985-3f860aa7-75b0-48e0-bc39-95fe5900d0e9.png">
+
+## Скаффолды после gapClose
+
+<img width="259" alt="Снимок экрана 2022-10-05 в 15 09 34" src="https://user-images.githubusercontent.com/99287058/194057051-8a2cb688-1449-4b20-9634-f7e4a0f14770.png">
+
+## Вывод
+Контигов стало больше, но их общая длина чуть убавилась, а также повысился N50 
+
+Скаффолдов (до gapclose) тоже стало больше, их общая длина стала меньше, как и N50; количество и общая длина гэпов особо не изменились. 
+
+Однако показатели для скаффолдов после gapClose одинаковы и для исходного, и для уменьшенного в два раза количества ридов.
